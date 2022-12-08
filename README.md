@@ -15,8 +15,8 @@ In November 1998 they had to cut 7 staff members due to decrease in funding. Tho
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
-## Their efforts
-###Posters, Flyers, & Ads
+## Their efforts 
+### Posters, Flyers, & Ads
 The Urinal Gazette - A flyer that was distributed to combat AIDS misinformation and provide resources for those who needed it. Also focused heavily on STDs and safe sex in general. It was published by Entertainers Against AIDS - Not published by Center Project
 Tinkle Tribune - female version of Urinal Gazette. More focus on STDs than just AIDS - Not published by Center Project
 Ran safe sex/condom education ads in Quest Magazine starting on June 11 1997. They featured various community members of all gender identities, race, and orientation. 
