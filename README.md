@@ -5,24 +5,24 @@
        author="Cora Terletzky"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
+       
+# The CENTER Project
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+Center first opened on September 30th 1985. 
+Merged with the AIDS Resource Center April 1st 1997
+In November 1998 they had to cut 7 staff members due to decrease in funding. Though in 1999 wisconsin AIDS programs received a combined 11mil from state and federal sources, that isn’t enough though considering the rising infection rates. 
 
-# Sample visual essay
-
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
-# Basic usage
+## Their efforts
+###Posters, Flyers, & Ads
+The Urinal Gazette - A flyer that was distributed to combat AIDS misinformation and provide resources for those who needed it. Also focused heavily on STDs and safe sex in general. It was published by Entertainers Against AIDS - Not published by Center Project
+Tinkle Tribune - female version of Urinal Gazette. More focus on STDs than just AIDS - Not published by Center Project
+Ran safe sex/condom education ads in Quest Magazine starting on June 11 1997. They featured various community members of all gender identities, race, and orientation. 
 
-## Image
+
+# Image
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
