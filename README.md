@@ -3,7 +3,7 @@
 <param ve-config 
        title="AIDS & The CENTER Project"
        author="Cora Terletzky"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://live.staticflickr.com/65535/52553391951_db8a024a45_z.jpg" 
        layout="vertical">
        
 # The CENTER Project
