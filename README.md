@@ -93,14 +93,14 @@ Bay City Chorus is a LGBTQ choir that was founded on Jan. 15th 1991. They partic
 ## Entertainers Against AIDS
 
 Organization was originally founded in ‘98 by "Cricket" Paul Jacob and Jeff Jennings. Disbanded in 2005.
-Variety shows from various performers, drag queens, church choirs, school choirs, and other community members. The first major show organized by Entertainers Against AIDS was on November 30th 1999 and was held in the Weidner center. Proceeds benefited the Center Project. Another show in 2001
+Variety shows from various performers, drag queens, church choirs, school choirs, and other community members. The first major show organized by Entertainers Against AIDS was on November 30th 1999 and was held in the Weidner center. Proceeds benefited the Center Project.
 <param ve-image 
        url="https://live.staticflickr.com/65535/52561664026_b3a0593de0_b.jpg">
 <param ve-image 
        url="https://live.staticflickr.com/65535/52561664056_41a3223c11_w.jpg">
        
 ## Benefits & Auctions
-
+There were various diners and auctions held that benefited the Center project. There was a year one in Feburary that regularly changed the name. 
 Cupids Arrow Dinner Celebration - Feb 1st 1992
 Have a Heart - Feb 13th 1993. 
 Benefit Show April 11th 1987
@@ -109,4 +109,4 @@ Benefit Show April 11th 1987
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[1]: Our Voices collection, UWGB archives.
