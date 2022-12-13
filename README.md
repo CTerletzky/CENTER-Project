@@ -8,7 +8,7 @@
        
 # The CENTER Project
 
-The Center Project first opened on September 30th 1985. They struggled with finding nursing staff due to AIDS fears and disagreements over whos jurisdiction it was to supply nurses. They merged with the AIDS Resource Center on April 1st 1997. In November 1998 they had to cut 7 staff members due to decrease in funding. Though in 1999 wisconsin AIDS programs received a combined 11mil from state and federal sources, that isn’t enough though considering the rising infection rates. 
+The Center Project first opened on September 30th 1985. They struggled with finding nursing staff due to AIDS fears and disagreements over whos jurisdiction it was to supply nurses. They merged with the AIDS Resource Center on April 1st 1997. In November 1998 they had to cut 7 staff members due to decrease in funding. Though in 1999 wisconsin AIDS programs received a combined 11mil from state and federal sources, that wasn't enough considering the rising infection rates. 
 
 <param ve-image
             url="https://live.staticflickr.com/65535/52562339115_8d47c6c736_m.jpg">
@@ -28,7 +28,7 @@ They did create safe sex/condom education ads that appeared in Quest Magazine st
        url="https://live.staticflickr.com/65535/52562133780_fc63d6a738_b.jpg">
 
 ### World AIDS Day Events
-The Center Project held interfaith services every year on World AIDS day. These services were held at various churchs in Green bay including St Mary of the Angels Church and the Union Congregational Church. After the services which featured pastors, priests, and other leaders of other relgions there were open houses at the Center Project. 
+The Center Project held interfaith services every year on World AIDS day. These services were held at various churchs in Green bay including St Mary of the Angels Church and the Union Congregational Church. After the services which featured pastors, priests, and other leaders of other relgions, there were open houses at the Center Project. 
 <param ve-image 
        url="https://live.staticflickr.com/65535/52562339235_ea1ffb1863_n.jpg">
 <param ve-image 
@@ -49,7 +49,7 @@ There were regular open houses to allow the community to visit the center and le
 
 # Community Efforts
 
-The community also fundraised and organized events to donate funds to the CENTER project. These efforts also included heading to events like the AIDS walk in Milwaukee. 
+The community also fundraised and organized events to donate funds to the CENTER project. These efforts also included groups heading to events like the AIDS walk in Milwaukee. While many of the groups that supported the Center Project had members who were directly connected to the Center Project the groups themselves were not directly affiliated. 
 <param ve-image 
        url="https://live.staticflickr.com/65535/52561957184_62870ecff5.jpg">
 
