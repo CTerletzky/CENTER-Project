@@ -19,8 +19,8 @@ The Center Project first opened on September 30th 1985. They struggled with find
 
 ## Their efforts 
 ### Posters, Flyers, & Ads
-The Urinal Gazette - A flyer that was distributed to combat AIDS misinformation and provide resources for those who needed it. Also focused heavily on STDs and safe sex in general. It was published by Entertainers Against AIDS - Not published by Center Project
-Tinkle Tribune - female version of Urinal Gazette. More focus on STDs than just AIDS - Not published by Center Project
+The Urinal Gazette - A flyer that was distributed to combat AIDS misinformation and provide resources for those who needed it. Also focused heavily on STDs and safe sex in general. It was published by Entertainers Against AIDS - Not published by Center Project<br>
+Tinkle Tribune - female version of Urinal Gazette. More focus on STDs than just AIDS - Not published by Center Project<br>
 They did create safe sex/condom education ads that appeared in Quest Magazine starting on June 11 1997. They featured various community members of all gender identities, race, and orientation. 
 <param ve-image 
        url="https://live.staticflickr.com/65535/52562205313_ae94eba7aa_w.jpg">
@@ -55,7 +55,7 @@ The community also fundraised and organized events to donate funds to the CENTER
 
 ## Guernsey Gala
 
-A series drag shows held at various bars that fundraised for the AIDS/Center project. It was a yearly event with the winner being crowned Miss Guernsey. It was founded in 1992 by Wayne Thiele, also known as the drag queen, Elsie Bovine. The winner was voted on with each vote backed by a monetary donation. There was also a charity softball tournement  that would run during the duration of the shows. 
+A series of drag shows held at various bars that fundraised for the AIDS/Center project. It was a yearly event with the winner being crowned Miss Guernsey. It was founded in 1992 by Wayne Thiele, also known as the drag queen, Elsie Bovine. The winner was voted on with each vote backed by a monetary donation. There was also a charity softball tournament that would run during the duration of the shows. 
 <param ve-image 
        label="Guernsey Sash"
        url="https://live.staticflickr.com/65535/52561210732_5d78aeaca8_k.jpg">
