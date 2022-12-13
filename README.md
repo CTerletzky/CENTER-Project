@@ -8,9 +8,7 @@
        
 # The CENTER Project
 
-Center first opened on September 30th 1985. 
-Merged with the AIDS Resource Center April 1st 1997
-In November 1998 they had to cut 7 staff members due to decrease in funding. Though in 1999 wisconsin AIDS programs received a combined 11mil from state and federal sources, that isn’t enough though considering the rising infection rates. 
+The Center Project first opened on September 30th 1985. They struggled with finding nursing staff due to AIDS fears and disagreements over whos jurisdiction it was to supply nurses. They merged with the AIDS Resource Center on April 1st 1997. In November 1998 they had to cut 7 staff members due to decrease in funding. Though in 1999 wisconsin AIDS programs received a combined 11mil from state and federal sources, that isn’t enough though considering the rising infection rates. 
 
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
@@ -19,12 +17,12 @@ In November 1998 they had to cut 7 staff members due to decrease in funding. Tho
 ### Posters, Flyers, & Ads
 The Urinal Gazette - A flyer that was distributed to combat AIDS misinformation and provide resources for those who needed it. Also focused heavily on STDs and safe sex in general. It was published by Entertainers Against AIDS - Not published by Center Project
 Tinkle Tribune - female version of Urinal Gazette. More focus on STDs than just AIDS - Not published by Center Project
-Ran safe sex/condom education ads in Quest Magazine starting on June 11 1997. They featured various community members of all gender identities, race, and orientation. 
+They did create safe sex/condom education ads that appeared in Quest Magazine starting on June 11 1997. They featured various community members of all gender identities, race, and orientation. 
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
 ### World AIDS Day Events
-text
+The Center Project held interfaith services every year on World AIDS day. These services were 
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
