@@ -57,7 +57,7 @@ The community also fundraised and organized events to donate funds to the CENTER
 
 A series drag shows held at various bars that fundraised for the AIDS/Center project. It was a yearly event with the winner being crowned Miss Guernsey. It was founded in 1992 by Wayne Thiele, also known as the drag queen, Elsie Bovine. The winner was voted on with each vote backed by a monetary donation. There was also a charity softball game that would run during the duration of the shows. 
 <param ve-image 
-       label="
+       label="Guernsey Sash"
        url="https://live.staticflickr.com/65535/52561210732_5d78aeaca8_k.jpg">
 <param ve-image 
        url="https://live.staticflickr.com/65535/52561210822_ca8e1f2911_c.jpg">
