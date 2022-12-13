@@ -55,25 +55,33 @@ The community also fundraised and organized events to donate funds to the CENTER
 
 ## Guernsey Gala
 
-A series drag shows held at various bars that fundraised for the AIDS/Center project. It was a yearly event with the winner being crowned Miss Guernsey. It was founded in 1992 by Wayne Thiele, also known as the drag queen, Elsie Bovine. The winner was voted on with each vote backed by a monetary donation. There was also a charity softball game that would run during the duration of the shows. 
+A series drag shows held at various bars that fundraised for the AIDS/Center project. It was a yearly event with the winner being crowned Miss Guernsey. It was founded in 1992 by Wayne Thiele, also known as the drag queen, Elsie Bovine. The winner was voted on with each vote backed by a monetary donation. There was also a charity softball tournement  that would run during the duration of the shows. 
 <param ve-image 
        label="Guernsey Sash"
        url="https://live.staticflickr.com/65535/52561210732_5d78aeaca8_k.jpg">
 <param ve-image 
+       label="1993 winner"
        url="https://live.staticflickr.com/65535/52561210822_ca8e1f2911_c.jpg">
 <param ve-image 
+       label="1994 winner"
        url="https://live.staticflickr.com/65535/52561664296_b83fb4f281.jpg">
 <param ve-image 
+       label="1995 winner"
        url="https://live.staticflickr.com/65535/52561957254_c18d26c85a_c.jpg">
 <param ve-image 
+       label="1996 winner"
       url="https://live.staticflickr.com/65535/52562205513_34dcce8a9d_c.jpg">
 <param ve-image 
+       label="1997 winner"
        url="https://live.staticflickr.com/65535/52561957229_6eb29edfc0_z.jpg">
 <param ve-image 
+       label="1998 winner"
        url="https://live.staticflickr.com/65535/52561664266_fab361bcb6_z.jpg">
 <param ve-image 
+       label="1999 Guernsey softball tournement"
        url="https://live.staticflickr.com/65535/52562272633_219a6b8508_c.jpg">
 <param ve-image 
+       label="2000 winner"
        url="https://live.staticflickr.com/65535/52561664231_8845f758a0_z.jpg">
 
 ## Bay City Chorus
