@@ -10,8 +10,7 @@
 
 The Center Project first opened on September 30th 1985. They struggled with finding nursing staff due to AIDS fears and disagreements over whos jurisdiction it was to supply nurses. They merged with the AIDS Resource Center on April 1st 1997. In November 1998 they had to cut 7 staff members due to decrease in funding. Though in 1999 wisconsin AIDS programs received a combined 11mil from state and federal sources, that isn’t enough though considering the rising infection rates. 
 
-<param ve-image 
-       manifest="https://live.staticflickr.com/65535/52561664006_1278b6dbbb.jpg">
+<param ve-image="https://live.staticflickr.com/65535/52561664006_1278b6dbbb.jpg">
 <param ve-image 
        manifest="https://live.staticflickr.com/65535/52561210737_8b2e5873dd_w.jpg">
 <param ve-image 
