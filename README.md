@@ -11,9 +11,9 @@
 The Center Project first opened on September 30th 1985. They struggled with finding nursing staff due to AIDS fears and disagreements over whos jurisdiction it was to supply nurses. They merged with the AIDS Resource Center on April 1st 1997. In November 1998 they had to cut 7 staff members due to decrease in funding. Though in 1999 wisconsin AIDS programs received a combined 11mil from state and federal sources, that isn’t enough though considering the rising infection rates. 
 
 <param ve-image
-            url="https://live.staticflickr.com/65535/52561664006_1278b6dbbb.jpg">
+            url="https://live.staticflickr.com/65535/52562339115_8d47c6c736_m.jpg">
 <param ve-image 
-       url="https://live.staticflickr.com/65535/52561210737_8b2e5873dd_w.jpg">
+       url="https://live.staticflickr.com/65535/52561416357_d69eeca685_z.jpg">
 <param ve-image 
        url="https://live.staticflickr.com/65535/52561210782_ae2f23aa92_z.jpg">
 
@@ -30,7 +30,7 @@ They did create safe sex/condom education ads that appeared in Quest Magazine st
 ### World AIDS Day Events
 The Center Project held interfaith services every year on World AIDS day. These services were held at various churchs in Green bay including St Mary of the Angels Church and the Union Congregational Church. After the services which featured pastors, priests, and other leaders of other relgions there were open houses at the Center Project. 
 <param ve-image 
-       url="https://live.staticflickr.com/65535/52562205558_2bf4c31441.jpg">
+       url="https://live.staticflickr.com/65535/52562339235_ea1ffb1863_n.jpg">
 <param ve-image 
        url="https://live.staticflickr.com/65535/52561210877_112db954cc.jpg">
 <param ve-image 
