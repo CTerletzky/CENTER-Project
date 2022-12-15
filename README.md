@@ -92,7 +92,7 @@ Bay City Chorus is a LGBTQ choir that was founded on Jan. 15th 1991. They partic
 
 ## Entertainers Against AIDS
 
-Organization was originally founded in ‘98 by "Cricket" Paul Jacob and Jeff Jennings. Disbanded in 2005.
+Organization was originally founded in ‘98 by "Cricket" Paul Jacob and Jeff Jennings.
 Variety shows from various performers, drag queens, church choirs, school choirs, and other community members. The first major show organized by Entertainers Against AIDS was on November 30th 1999 and was held in the Weidner center. Proceeds benefited the Center Project.
 <param ve-image 
        url="https://live.staticflickr.com/65535/52561664026_b3a0593de0_b.jpg">
@@ -100,13 +100,11 @@ Variety shows from various performers, drag queens, church choirs, school choirs
        url="https://live.staticflickr.com/65535/52561664056_41a3223c11_w.jpg">
        
 ## Benefits & Auctions
-There were various diners and auctions held that benefited the Center project. There was a year one in Feburary that regularly changed the name. 
-Cupids Arrow Dinner Celebration - Feb 1st 1992
-Have a Heart - Feb 13th 1993. 
-Benefit Show April 11th 1987
+There were various diners and auctions held that benefited the Center project. There was a yearly one in Feburary that regularly changed the name, though seemed to revolve around love or valentine's day. These dinners often had a silent auction aspect where various items or experiences donated by community members. 
 <param ve-image 
        url="https://live.staticflickr.com/65535/52562205308_7e2afe23fe_w.jpg">
 
 # References
 
 [1]: Our Voices collection, UWGB archives.
+[2]: Quest Magizine Archives
