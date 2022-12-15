@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="AIDS & The CENTER Project"
+       title="The CENTER Project & Community response to AIDS in Green Bay"
        author="Cora Terletzky"
        banner="https://live.staticflickr.com/65535/52553391951_db8a024a45_z.jpg" 
        layout="vertical">
