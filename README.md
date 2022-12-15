@@ -98,7 +98,7 @@ Variety shows from various performers, drag queens, church choirs, school choirs
        url="https://live.staticflickr.com/65535/52561664056_41a3223c11_w.jpg">
        
 ## Benefits & Auctions
-There were various diners and auctions held that benefited the Center project. There was a yearly one in Feburary that regularly changed the name, though seemed to revolve around love or valentine's day. These dinners often had a silent auction aspect where various items or experiences donated by community members. 
+There were various diners and auctions held that benefited the Center project. There was a yearly one in Feburary that regularly changed the name, though seemed to revolve around love or valentine's day. These dinners often had a silent auction aspect where various items or experiences donated by community members. There were also shows or events that were organized by community members or groups outside of EAA and the Guernsey Gala.
 <param ve-image 
        url="https://live.staticflickr.com/65535/52562205308_7e2afe23fe_w.jpg">
 
