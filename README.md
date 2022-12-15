@@ -43,8 +43,6 @@ There were regular open houses to allow the community to visit the center and le
 <param ve-image
        url="https://live.staticflickr.com/65535/52562133935_a67ac8781a_n.jpg">
 <param ve-image
-       url="https://live.staticflickr.com/65535/52562133935_a67ac8781a_n.jpg">
-<param ve-image
        url="https://live.staticflickr.com/65535/52562133715_edb91779e5_w.jpg">
 
 # Community Efforts
