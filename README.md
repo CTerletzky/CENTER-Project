@@ -107,5 +107,5 @@ There were various diners and auctions held that benefited the Center project. T
 # References
 
 [1]: Our Voices collection, UWGB archives.<br>
-[Quest Magizine Archives](https://wislgbthistory.com/media/print/quest.htm)
+[2]:[Quest Magizine Archives](https://wislgbthistory.com/media/print/quest.htm)
 
